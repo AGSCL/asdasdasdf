@@ -1,0 +1,18 @@
+Package: asdasdasdf
+Type: Package
+Title: The Title of the Project
+Version: 0.0.0.9000
+Authors@R: c(
+    person(given   = "Andres",
+           family  = "Gonzalez",
+           role    = c("aut", "cre", "cph"),
+           email   = "andres@example.com",
+           comment = c(ORCID = "{{orcid}}")))
+Description: A paragraph providing a full description of the project (on 
+    several lines...)
+URL: https://github.com/AGSCL/asdasdasdf
+BugReports: https://github.com/AGSCL/asdasdasdf/issues
+License: CC BY 4.0
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 8.1.0
