@@ -3,7 +3,11 @@
 # asdasdasdf <img src="figures/readme/compendium-sticker.png" align="right" style="float:right; height:120px;"/>
 
 <!-- badges: start -->
+
+[![License: CC BY
+4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://choosealicense.com/licenses/cc-by-4.0/)
 <!-- badges: end -->
+
 <p align="left">
 • <a href="#overview">Overview</a><br> • <a href="#data-sources">Data
 sources</a><br> • <a href="#workflow">Workflow</a><br> •
